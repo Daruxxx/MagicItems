@@ -1,0 +1,4 @@
+name: MagicItem
+version: '${project.version}'
+main: me.darux.magicitem.Main
+author: D4RUX
